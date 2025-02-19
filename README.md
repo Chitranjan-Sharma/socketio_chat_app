@@ -1,5 +1,11 @@
 # socketio_chat_app
 
-A new Flutter project.
+# Flutter Socket.IO one to one chat app demo with Nodejs server
 
-<img src="  https://github.com/Chitranjan-Sharma/socketio_chat_app/blob/main/SS/Screenshot%202025-02-19%20at%202.26.17%E2%80%AFAM.png " width="50%">
+# Home screen 
+<p align="center">
+  <img src="SS/Screenshot 2025-02-19 at 2.26.17 AM.png" width="350" title="hover text">
+
+# Chats screen 
+  <img src="SS/Screenshot 2025-02-19 at 2.53.36 AM.png" width="350" alt="accessibility text">
+</p>
